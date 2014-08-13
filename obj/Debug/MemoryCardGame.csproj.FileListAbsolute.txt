@@ -1,0 +1,10 @@
+C:\Users\Ranu\documents\visual studio 2013\Projects\HTML5\MemoryCardGame\bin\css\transition.css
+C:\Users\Ranu\documents\visual studio 2013\Projects\HTML5\MemoryCardGame\bin\images\AK.png
+C:\Users\Ranu\documents\visual studio 2013\Projects\HTML5\MemoryCardGame\bin\images\AQ.png
+C:\Users\Ranu\documents\visual studio 2013\Projects\HTML5\MemoryCardGame\bin\js\jquery-2.0.3.min.js
+C:\Users\Ranu\documents\visual studio 2013\Projects\HTML5\MemoryCardGame\bin\MemoryCardGame.dll.config
+C:\Users\Ranu\documents\visual studio 2013\Projects\HTML5\MemoryCardGame\bin\MemoryCardGame.dll
+C:\Users\Ranu\documents\visual studio 2013\Projects\HTML5\MemoryCardGame\bin\MemoryCardGame.pdb
+C:\Users\Ranu\documents\visual studio 2013\Projects\HTML5\MemoryCardGame\obj\Debug\MemoryCardGame.csprojResolveAssemblyReference.cache
+C:\Users\Ranu\documents\visual studio 2013\Projects\HTML5\MemoryCardGame\obj\Debug\MemoryCardGame.dll
+C:\Users\Ranu\documents\visual studio 2013\Projects\HTML5\MemoryCardGame\obj\Debug\MemoryCardGame.pdb
